@@ -31,5 +31,4 @@ int binary_tree_balance(const binary_tree_t *tree)
 	}
 
 	return (cnt2 - cnt1);
-
 }
